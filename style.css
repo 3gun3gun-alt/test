@@ -8,7 +8,7 @@ float:; /* элемент всплывает влево */
 }
 
 #b {width: 500px; /* ширина содержимого */
-background: #ecec4e; /* цвет фона страницы */
+background: #A100FF; /* цвет фона страницы */
 border-radius: 3em;
 padding: 50px; /* внутренние отступы */
 margin: 0 auto;
