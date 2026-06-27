@@ -8,7 +8,7 @@ float:; /* элемент всплывает влево */
 }
 
 #b {width: 500px; /* ширина содержимого */
-background: #EB6B6B; /* цвет фона страницы */
+background: #ecec4e; /* цвет фона страницы */
 border-radius: 3em;
 padding: 50px; /* внутренние отступы */
 margin: 0 auto;
@@ -18,7 +18,7 @@ float:; /* элемент всплывает влево */
 
 
 #c {width: 500px; /* ширина содержимого */
-background: #EB6B6B; /* цвет фона страницы */
+background: #ecec4e; /* цвет фона страницы */
 border-radius: 3em;
 padding: 50px; /* внутренние отступы */
 margin: 0 auto;
@@ -34,14 +34,14 @@ border-radius: 3em;
 
 
 #e {float:; /* элемент всплывает влево */
-background: #2EBBA8; /* цвет фона страницы */
+background: #ecec4e; /* цвет фона страницы */
 width: 800px; /* ширина содержимого */
 margin: 0 auto;
 }
 
 #f {width: 400px; /* ширина содержимого */
 float:; /* элемент всплывает влево */
-background: #7DFFEE; /* цвет фона страницы */
+background: #ecec4e; /* цвет фона страницы */
 padding: 100px; /* внутренние отступы */
 margin: 0 auto;
 }
